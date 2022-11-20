@@ -4,7 +4,7 @@
         "target_path": "device/samsung_slsi/sepolicy"
     },
     {
-        "repository": "android_hardware_samsung",
+        "repository": "hardware_samsung",
         "target_path": "hardware/samsung"
     },
     {
